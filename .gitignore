@@ -1,0 +1,4 @@
+target/
+tools/.cache/
+tauri-backup.tar.gz
+phone-backup/
