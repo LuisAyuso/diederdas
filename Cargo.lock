@@ -364,9 +364,9 @@ checksum = "f27ae1dd37df86211c42e150270f82743308803d90a6f6e6651cd730d5e1732f"
 
 [[package]]
 name = "dfui"
-version = "0.1.0"
+version = "0.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "21065c5d8b4f3ebaee254403bb591653018513e72ab1263b9b2bc77738534173"
+checksum = "a9f33f092c28ed611adbb38fedd75bcec8a3b4ea88d5bf5f70b5f60732d1a84d"
 dependencies = [
  "arboard",
  "bytemuck",
